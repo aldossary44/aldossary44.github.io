@@ -1,0 +1,40 @@
+body {
+    margin: 20px;
+    background-image: url("Downloads/background.png")
+      
+  }
+  
+  h1{
+      text-shadow: 1px 1px 1px blue, 2px 2px 1px blue; 
+      padding: 20px 50px;
+  }
+  
+  .p1{
+      font-size: 16px;
+      color: blue;
+      padding: 10px 20px;
+
+        
+  }
+  .aboutme{
+      font-size: 16px;
+    color: navy;
+     letter-spacing: 2px;
+    word-spacing: 2px;
+    padding: 110px 50px 50px 110px;
+  }
+  
+  .hobbies{
+      color: blue;
+        list-style-type: square;
+        list-style-position: outside;
+        list-style-image: none;
+  
+  }
+  img {  
+    max-width: 100%;  
+    height: auto;  
+    }   
+  
+  
+            
